@@ -1,0 +1,27 @@
+fastapi
+uvicorn
+python-multipart
+
+# Speech to Text
+openai-whisper
+torch
+ffmpeg-python
+
+# OCR
+pytesseract
+Pillow
+
+# NLP
+spacy
+
+# Text to Speech
+gTTS
+
+# Queue
+kafka-python
+
+# Cache
+redis
+
+# Utils
+python-dotenv
